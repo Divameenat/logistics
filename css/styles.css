@@ -1,0 +1,511 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+/* COLORS */
+.nav-item a, .navbar-toggler {
+  color: #ff3514;
+}
+
+.btn.first-div-button, .second-div, .btn.nav-button {
+  background-color: #ff3514;
+}
+
+.first-div, .btn.nav-button:hover, .third-div, .seventh-div {
+  background-color: #020712;
+}
+
+.first-div-header, .first-div-text, .btn.first-div-button, .btn.nav-button:hover, .btn.nav-button, .second-div1-header, .second-div2-header, .second-div2-header, .second-div2-text, .third-div, .third-card.card, .fifth-div, .seventh-div-header, .seventh-div2-header, .convenience-header, footer {
+  color: white;
+}
+
+/* NAVBAR */
+.logo {
+  width: 60%;
+}
+
+.nav-buttons-pc {
+  display: none;
+}
+
+.nav-item a, button.nav-button {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.nav-item a:hover, .card {
+  color: #020712;
+}
+
+/* BODY */
+/* FIRST-DIV */
+.first-div-col1, .second-div, .third-div, .sixth-div, .seventh-div {
+  padding: 5%;
+  text-align: center;
+}
+
+.first-div-image {
+  width: 100%;
+}
+
+.first-div-header, .third-div-header, .fifth-div-header, .sixth-div-header, .seventh-div-header {
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+/* FIRST DIV BUTTONS */
+.first-div-buttons {
+  padding-top: 2%;
+}
+
+.btn.first-div-button, .btn.second-div2-button {
+  font-size: 1.2rem;
+  padding: .2rem .6rem;
+  margin-right: 1%;
+}
+
+.btn.first-div-button:hover, .btn.second-div2-button {
+  background-color: #14DEFF;
+}
+
+/* SECOND DIV */
+.second-div, .third-div, .forth-div, .fifth-div, .fifth-div, .sixth-div, .seventh-div, footer, .copyright-div {
+  margin-top: 3%;
+}
+
+/* SECOND DIV1 */
+.second-div1-header, .second-div2-header {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.second-div2 {
+  margin-top: 10%;
+}
+
+/* CARD */
+.card {
+  margin: 2% auto;
+  text-align: justify;
+}
+
+.card-image {
+  width: 15%;
+  margin: 5% 0 0 4%;
+}
+
+.second-div2-header, .fifth-div-sub-header, .reviews-header {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+
+.btn.second-div2-button:hover {
+  background-color: #ff3514;
+  border: 2px solid white;
+  color: white;
+}
+
+/* tp-vehicles */
+.tp-vehicles {
+  padding-top: 10%;
+}
+
+.micro-slider {
+  height: 20rem;
+  position: relative;
+  width: 100%;
+}
+
+.slider-item {
+  background: #FFF;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .06), 0 1px 2px rgba(0, 0, 0, .12);
+  color: #FFF;
+  display: none;
+  font-size: 72px;
+  height: 20rem;
+  line-height: 320px;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 20rem;
+  cursor: pointer;
+}
+
+.indicators .active a {
+  background: #E6E9EC;
+}
+
+.s1 {
+  background: #3f51b5;
+}
+
+.s2 {
+  background: #448aff;
+}
+
+.s3 {
+  background: #03a9f4;
+}
+
+.s4 {
+  background: #00bcd4;
+}
+
+.s5 {
+  background: #009688;
+}
+
+.s6 {
+  background: #4caf50;
+}
+
+/* THIRD DIV */
+.third-card-body {
+  text-align: center;
+}
+
+.third-card.card, .price-box {
+  background-color: #0f141f;
+}
+
+.third-div-header, .fifth-div-header, .seventh-div-header {
+  padding-bottom: 2%;
+}
+
+.third-card-text {
+  padding-bottom: 2%;
+}
+
+button a {
+  text-decoration: none;
+  color: white;
+}
+
+button a:hover {
+  color: black;
+}
+
+.fa-ul {
+  text-align: justify;
+}
+
+.pricing-icon-list {
+  padding: 5% 3% 0 3%;
+}
+
+/* FIFTH DIV */
+.fifth-div, footer {
+  background-color: #0098d6;
+  padding: 5%;
+}
+
+.fifth-div-header {
+  text-align: center;
+}
+
+.col-md.about-div {
+  padding: 0 4% 0 2%;
+}
+
+/* FLAG */
+.flag-div {
+  width: 100%;
+  padding-top: 5%;
+}
+
+.fifth-div-text {
+  text-align: justify;
+}
+
+.flag {
+  width: 40%;
+  padding-right: 5%;
+  float: left;
+}
+
+.globe {
+  width: 100%;
+}
+
+/* SIXTH DIV */
+.sixth-div {
+  color: #020712;
+}
+
+.partner-logo {
+  width: 100%;
+  opacity: .8;
+  margin: auto;
+}
+
+/* REVIEWS */
+.reviews {
+  padding: 10% 0 5% 0;
+}
+
+/* CAROUSEL */
+.fa-quote-left {
+  float: left;
+}
+
+.fa-quote-left, .fa-quote-right, .fa-star, .fa-star-half {
+  color: #0098d6;
+}
+
+.fa-quote-right {
+  float: right;
+}
+
+.carousel-text {
+  text-align: justify;
+}
+
+.profile {
+  text-align: left;
+}
+
+.review-image {
+  width: 20%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 3%;
+}
+
+.review-name {
+  padding-top: 2%;
+}
+
+/* CONTACT */
+.customer-care {
+  width: 90%;
+}
+
+.convenience-header {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.convenience-div {
+  width: 100%;
+}
+
+li a {
+  font-size: 1rem;
+  color: white;
+  line-height: 2rem;
+  text-decoration: none;
+}
+
+form {
+  color: #020712;
+}
+
+.seventh-div2-header, .footer-header {
+  font-size: 1.5rem;
+}
+
+.form-column {
+  text-align: left;
+  padding-top: 5%;
+}
+
+/* FOOTER */
+.footer-logo {
+  width: 6rem;
+  float: left;
+  margin-right: 3%;
+}
+
+.footer-logo-header {
+  padding-top: 1%;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.footer-logo-text-div {
+  width: 100%;
+  text-align: justify;
+}
+
+.footer-header {
+  font-weight: 600;
+}
+
+.footer-text a {
+  text-decoration: none;
+  color: white;
+  line-height: 2rem;
+}
+
+.footer-icon {
+  padding-right: 3%;
+}
+
+/* COPYRIGHT */
+.copyright-div {
+  text-align: center;
+}
+
+
+@media only screen and (min-device-width: 750px) {
+  .logo {
+    width: 90%;
+  }
+
+  .nav-buttons-phone {
+    display: none;
+  }
+
+  .nav-buttons-pc {
+    display: block;
+  }
+
+  .navbar-nav {
+    margin-left: 20%;
+  }
+
+  .nav-item a, button.nav-button {
+    font-size: 1.2rem;
+  }
+
+  /* BODY */
+  /* FIRST-DIV */
+  .first-div-col1 {
+    padding: 15%;
+    text-align: justify;
+  }
+
+  .first-div-header {
+    font-size: 3rem;
+    padding-bottom: 5%;
+  }
+
+  .first-div-text {
+    font-size: 1.2rem;
+  }
+
+  /* FIRST DIV BUTTONS */
+  .first-div-buttons {
+    padding-top: 5%;
+  }
+
+  .btn.first-div-button, .btn.second-div2-button {
+    padding: .5rem 1.8rem;
+    margin-right: 2%;
+    font-size: 1.4rem;
+  }
+
+  /* SECOND DIV */
+  .second-div, .third-div, .forth-div, .fifth-div, .fifth-div, .sixth-div, .seventh-div, footer, .copyright-div {
+    margin-top: 1%;
+  }
+
+  .second-div1-header, .second-div2-header {
+    font-size: 2rem;
+    padding-bottom: 1%;
+  }
+
+  .second-div2 {
+    margin-top: 4%;
+  }
+
+  .second-div2-text {
+    text-align: justify;
+  }
+
+  .btn.second-div2-button {
+    font-size: 1.2rem;
+    padding: .3rem .8rem;
+  }
+
+  .mode-of-tp {
+    text-align: justify;
+    padding: 5%;
+  }
+
+  /* tp-vehicles */
+  .tp-vehicles {
+    padding-top: 0;
+  }
+
+  /* FIFTH DIV */
+  .second-div, .third-div, .fifth-div, .sixth-div, .seventh-div {
+    padding: 3% 5%;
+  }
+
+  /* SIXTH DIV */
+  .sixth-div-header {
+    padding-bottom: 2%;
+  }
+
+  .partner-logo {
+    width: 60%;
+  }
+
+  /* REVIEWS */
+  .reviews {
+    width: 70%;
+    margin: auto;
+    padding: 5% 0 2% 0;
+  }
+
+  .reviews-header {
+    font-size: 1.8rem;
+  }
+
+  .carousel-text, .review-name {
+    font-size: 1.2rem;
+  }
+
+  .fa-carousel {
+    font-size: 2rem;
+  }
+
+  .review-image {
+    width: 6rem;
+    margin-right: 3%;
+  }
+
+  .profile {
+    margin-top: 5%;
+  }
+
+  .review-name {
+    padding-top: 2%;
+  }
+
+  .review-name {
+    font-weight: 500;
+  }
+
+  .fa-star, .fa-star-half {
+    margin-right: 1%;
+  }
+
+  /* CONTACT */
+  .customer-care {
+    width: 90%;
+  }
+
+  .convenience-header {
+    font-size: 2rem;
+    font-weight: 400;
+  }
+
+  .form-column {
+    padding-top: 0;
+  }
+
+  .convenience-div {
+    padding-left: 3%;
+  }
+
+  .footer-logo-text-div {
+    width: 80%;
+    text-align: justify;
+  }
+
+
+
+}

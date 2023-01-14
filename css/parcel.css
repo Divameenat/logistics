@@ -1,0 +1,14 @@
+div .body-container {
+  background-color: #00C1E0;
+  padding: 5% 0;
+}
+
+.parcel-header {
+  color: white;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.label {
+  margin-left: 3%;
+}
